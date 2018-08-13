@@ -1,8 +1,14 @@
+#unnecessary python files
 *.pyc
 *~
 __pycache__
+
+#environment
 myvenv
+
+#system stuff
 /static
 .DS_Store
 
+#pycharm
 .idea/
