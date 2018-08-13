@@ -3,6 +3,9 @@
 *~
 __pycache__
 
+#db
+db.sqlite3
+
 #environment
 myvenv
 
@@ -12,3 +15,5 @@ myvenv
 
 #pycharm
 .idea/
+
+#db
